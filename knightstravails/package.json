@@ -1,0 +1,22 @@
+{
+    "name": "knightstravails",
+    "displayName": "KnightsTravails",
+    "description": "Custom neon syntax",
+    "version": "0.0.1",
+    "publisher": "Andy",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "KnightsTravails",
+                "uiTheme": "vs-dark",
+                "path": "./themes/KnightsTravails-color-theme.json"
+            }
+        ]
+    }
+}
